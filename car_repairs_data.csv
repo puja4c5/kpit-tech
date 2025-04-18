@@ -1,0 +1,7 @@
+Failure Type,Cause,Symptoms,Repair
+Battery Failure,Dead or faulty battery,"No start, dashboard lights on, no engine crank",Replace battery
+Fuel System Failure,Faulty fuel pump,"Engine cranks but doesn't start, sputtering",Replace fuel pump
+Starter Motor Failure,Faulty starter motor,"Clicking sound, no engine crank",Replace starter motor
+Transmission Failure,Leaking transmission fluid,"Slipping gears, overheating","Fix leak, replace fluid"
+Engine Overheating,"Lack of coolant, faulty radiator","Steam from engine, high temperature warning","Fix radiator, refill coolant"
+Brake Fluid Leak,Leaking brake lines,"Soft brake pedal, warning light on dashboard","Fix leak, top up brake fluid"
